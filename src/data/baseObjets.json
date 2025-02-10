@@ -1,0 +1,104 @@
+[
+    {
+      "nom": "Alice Dupont",
+      "adresse": "12 rue de Vesoul, 25000 Besançon",
+      "numeroObjet": "5A12345678901"
+    },
+    {
+      "nom": "Bernard Martin",
+      "adresse": "45 avenue de la Gare d'Eau, 25000 Besançon",
+      "numeroObjet": "3B98765432109"
+    },
+    {
+      "nom": "Claire Fontaine",
+      "adresse": "78 boulevard Diderot, 25000 Besançon",
+      "numeroObjet": "7C13579246802"
+    },
+    {
+      "nom": "David Lefebvre",
+      "adresse": "22 rue des Granges, 25000 Besançon",
+      "numeroObjet": "1D24681357903"
+    },
+    {
+      "nom": "Élodie Morel",
+      "adresse": "99 rue Battant, 25000 Besançon",
+      "numeroObjet": "9E35715926404"
+    },
+    {
+      "nom": "François Dubois",
+      "adresse": "5 impasse du Fort Griffon, 25000 Besançon",
+      "numeroObjet": "2F98732165405"
+    },
+    {
+      "nom": "Gabrielle Thomas",
+      "adresse": "14 place du 8 Septembre, 25000 Besançon",
+      "numeroObjet": "8G65498732106"
+    },
+    {
+      "nom": "Henri Rousseau",
+      "adresse": "33 cours Saint-Maurice, 25000 Besançon",
+      "numeroObjet": "4H32165498707"
+    },
+    {
+      "nom": "Isabelle Petit",
+      "adresse": "27 avenue Gaulard, 25000 Besançon",
+      "numeroObjet": "6I13572468908"
+    },
+    {
+      "nom": "Jean Lambert",
+      "adresse": "88 rue de Belfort, 25000 Besançon",
+      "numeroObjet": "5J98765432109"
+    },
+    {
+      "nom": "Karine Blanc",
+      "adresse": "1 boulevard Churchill, 25000 Besançon",
+      "numeroObjet": "7K46813579210"
+    },
+    {
+      "nom": "Laurent Garnier",
+      "adresse": "34 quai Veil Picard, 25000 Besançon",
+      "numeroObjet": "3L15935724611"
+    },
+    {
+      "nom": "Mélanie Dubreuil",
+      "adresse": "77 rue de la République, 25000 Besançon",
+      "numeroObjet": "9M75315924612"
+    },
+    {
+      "nom": "Nicolas Renault",
+      "adresse": "12 rue Mégevand, 25000 Besançon",
+      "numeroObjet": "1N85296374113"
+    },
+    {
+      "nom": "Olivier Simon",
+      "adresse": "56 avenue de l'Helvétie, 25000 Besançon",
+      "numeroObjet": "2O78965412314"
+    },
+    {
+      "nom": "Patricia Girard",
+      "adresse": "90 boulevard Léon Blum, 25000 Besançon",
+      "numeroObjet": "5P45612378915"
+    },
+    {
+      "nom": "Quentin Moreau",
+      "adresse": "16 place Pasteur, 25000 Besançon",
+      "numeroObjet": "8Q12378945616"
+    },
+    {
+      "nom": "Romain Charlier",
+      "adresse": "23 avenue Fontaine-Argent, 25000 Besançon",
+      "numeroObjet": "3R95135724617"
+    },
+    {
+      "nom": "Sophie Bernard",
+      "adresse": "44 rue de la Préfecture, 25000 Besançon",
+      "numeroObjet": "7S98765432118"
+    },
+    {
+      "nom": "Théo Durand",
+      "adresse": "67 quai de Strasbourg, 25000 Besançon",
+      "numeroObjet": "4T65432198719"
+    }
+    
+  ]
+  

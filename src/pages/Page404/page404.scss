@@ -1,0 +1,33 @@
+.page404Container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100svh;
+  main{
+    background-color: orange;
+    height: 100%;flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: flex;gap: 50px;
+    svg{
+        color:  #f1f1f1;
+        font-size: 90px;
+    }
+    p{
+        font-size: 100px;font-style: italic;
+        color: #f1f1f1;
+    }
+  }
+}
+
+@media screen and (max-width: 768px){
+    .page404Container{
+        main{
+            gap: 15px;
+            svg{
+                font-size: 30px;
+            }
+            p{font-size: 35px;}
+        }
+    }
+}

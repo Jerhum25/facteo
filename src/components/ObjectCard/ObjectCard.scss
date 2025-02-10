@@ -1,0 +1,19 @@
+.ObjectCardContainer {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: auto;
+  gap: 5px;
+  background-color: #fff;
+  border-radius: 8px;
+  p{
+    text-transform: uppercase;
+    &:first-child, &:last-child{
+        font-weight: bold;
+    }
+    &:nth-child(2){
+        font-size: 14px;
+    }
+  }
+}

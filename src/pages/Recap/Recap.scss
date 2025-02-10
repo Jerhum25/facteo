@@ -1,0 +1,143 @@
+.recapContainer {
+  min-height: 100svh;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+
+  .recapHeader {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: lightgrey;
+    .left,
+    .right {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      letter-spacing: 1px;
+      svg {
+        font-size: 20px;
+        width: 20px;
+        height: 20px;
+      }
+      p {
+        font-size: 18px;
+        font-weight: bold;
+      }
+    }
+  }
+  .recapObjects {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 5px;
+    .top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background-color: lightgrey;
+      padding: 5px;
+      margin: 0 5px;
+      h2 {
+        font-size: 20px;
+        color: rgb(0, 174, 255);
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        svg {
+          font-size: 14px;
+          color: grey;
+        }
+      }
+      .loader {
+        svg {
+          rotate: -100deg;
+          color: #fff;
+          font-size: 18px;
+          background-color: rgb(0, 174, 255);
+          width: 30px;
+          height: 30px;
+          padding: 5px;
+          border-radius: 50%;
+        }
+      }
+    }
+  }
+  a {
+    color: #000;
+    display: flex;
+    justify-content: space-between;align-items: center;
+    background-color: #fff;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: lightgrey;
+    position: relative;
+    margin: 0 5px;
+    &.palm,
+    &.prestation,
+    &.collectes,
+    &.pickup {
+      .title {
+        width: 80px;
+        display: flex;
+        justify-content: center;
+        p {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          font-size: 12px;
+          svg {
+            font-size: 20px;
+          }
+        }
+      }
+      .number {
+        flex: 1;
+        padding-left: 50px;
+      }
+    }
+    &.services {
+      svg {
+        color: rgb(0, 174, 255);
+      }
+      p {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        svg {
+          color: #000;
+          font-size: 20px;
+        }
+      }
+    }
+    .rightVerticaleLine {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+      width: 8px;
+      background-color: grey;
+    }
+  }
+  .palm {
+    .rightVerticaleLine {
+      background-color: rgb(85, 182, 85);
+    }
+  }
+  .recapFooter {
+    display: flex;
+    width: 100%;
+    gap: 2px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: bold;
+    :first-child {
+      background-color: rgb(0, 174, 255);
+    }
+    :last-child {
+      background-color: navy;
+    }
+  }
+}
