@@ -1,19 +1,30 @@
 .ObjectCardContainer {
-  padding: 10px;
   display: flex;
   flex-direction: column;
-  width: 90%;
+  width: 100%;
   margin: auto;
   gap: 5px;
-  background-color: #fff;
-  border-radius: 8px;
-  p{
+  // background-color: #fff;
+  p {
     text-transform: uppercase;
-    &:first-child, &:last-child{
-        font-weight: bold;
+    font-size: 12px;
+    &.nom {
+      font-weight: bold;
     }
-    &:nth-child(2){
-        font-size: 14px;
+    &.adresse {
+      background-color: transparent;
+      padding: 0 8px;
+      display: flex;align-items: center;
+      justify-content: space-between;
+      svg{
+        font-size: 18px;
+        rotate: 45deg;
+        color: grey;
+      }
     }
+  }
+  div {
+    background-color: #fff;
+    padding: 5px 0 5px 5px;
   }
 }

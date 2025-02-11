@@ -1,5 +1,9 @@
-.genericButtonContainer{
-    text-transform: uppercase;
-    padding: 8px; width: 250px;
-    background-color: blue;text-align: center;
+.genericButtonContainer {
+  text-transform: uppercase;
+  padding: 8px;
+  width: 250px;
+  background-color: blue;
+display: flex;
+align-items: center;
+justify-content: center;
 }
