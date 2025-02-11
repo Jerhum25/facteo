@@ -7,6 +7,7 @@ import Accueil from "./pages/Accueil/Accueil";
 import Page404 from "./pages/Page404/Page404";
 import Recap from "./pages/Recap/Recap";
 import ObjectsList from "./pages/ObjectsList/ObjectsList";
+import ObjectDetails from "./pages/ObjectDetails/ObjectDetails";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -16,6 +17,7 @@ root.render(
         {/* <Route path="/" element={<App/>}> */}
           <Route path="/" element={<Recap />} />
           <Route path="/ObjectList" element={<ObjectsList />} />
+          <Route path="/ObjectDetails" element={<ObjectDetails />} />
           <Route path="/Page404" element={<Page404/>} />
         {/* </Route> */}
       </Routes>

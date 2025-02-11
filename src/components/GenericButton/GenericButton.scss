@@ -3,7 +3,8 @@
   padding: 8px;
   width: 250px;
   background-color: blue;
-display: flex;
-align-items: center;
-justify-content: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }

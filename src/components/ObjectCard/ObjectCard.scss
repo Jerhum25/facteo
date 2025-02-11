@@ -3,11 +3,11 @@
   flex-direction: column;
   width: 100%;
   margin: auto;
-  gap: 5px;
-  // background-color: #fff;
+  gap: 5px;color:#000;
+  
   p {
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 14px;
     &.nom {
       font-weight: bold;
     }

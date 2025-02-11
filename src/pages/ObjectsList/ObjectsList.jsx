@@ -10,7 +10,7 @@ import { Link } from "react-router-dom";
 
 function ObjectsList(props) {
   return (
-    <div className="ObjectsListContainer">
+    <div className="objectsListContainer">
       {" "}
       <div className="recapHeader">
         <div className="left">

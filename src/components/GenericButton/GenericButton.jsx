@@ -2,10 +2,10 @@ import './GenericButton.scss'
 
 import React from 'react';
 
-function GenericButton({text}) {
+function GenericButton({text, icon}) {
     return (
         <div className='genericButtonContainer'>
-            {text}
+            {icon}{text}
         </div>
     );
 }
