@@ -25,6 +25,15 @@
   }
   div {
     background-color: #fff;
-    padding: 5px 0 5px 5px;
+    padding: 5px 0 5px 5px;position: relative;
+    .rightVerticaleLine {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+      width: 6px;
+      background-color: orange;
+    }
+
   }
 }

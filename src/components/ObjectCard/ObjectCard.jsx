@@ -9,7 +9,8 @@ function ObjectCard({nom, adresse, numeroObjet}) {
             <p className="adresse">{adresse}<FaSquareArrowUpRight /></p>
             <div>
                 <p className="nom">{nom}</p>
-                <p className="numeroObjet">{numeroObjet}</p>
+                <p className="numeroObjet">{numeroObjet}</p>          <div className="rightVerticaleLine"></div>
+
             </div>
         </div>
     );
