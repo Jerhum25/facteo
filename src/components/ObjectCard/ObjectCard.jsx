@@ -6,13 +6,13 @@ import { Link } from "react-router-dom";
 
 function ObjectCard({ nom, adresse, numeroObjet }) {
   function onCLickCard(e) {
-    // const clients = JSON.parse(localStorage.getItem("clientList"))
-    localStorage.setItem("clientList", JSON.stringify(contactDetails))
+    localStorage.setItem("clientDetails", JSON.stringify(contactDetails))
   }
 const contactDetails = {
     "name": nom,
     "address": adresse,
-    "objectNumber": numeroObjet
+    "objectNumber": numeroObjet,
+    "distributionReason": ""
 }
   return (
     <Link

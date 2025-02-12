@@ -9,25 +9,27 @@ import { GrUserManager } from "react-icons/gr";
 import { HiOutlineChatBubbleBottomCenterText } from "react-icons/hi2";
 import { IoCubeOutline } from "react-icons/io5";
 import { PiMailboxLight, PiUsersThreeLight } from "react-icons/pi";
-import GenericButton from "../../components/GenericButton/GenericButton";
 import { Link } from "react-router-dom";
+import GenericButton from "../../components/GenericButton/GenericButton";
 
-function ObjectDetails({nom, adresse, numeroObjet}) {
+function ObjectDetails() {
+  let clientDetails = JSON.parse(localStorage.getItem("clientDetails"));
 
-const client = JSON.parse(localStorage.getItem("clientList"))
-
+  function recupDistri(e) {
+    localStorage.setItem("distributionReason", "Objet remis en BAL");
+  }
 
   return (
     <div className="objectDetailsContainer">
       <div className="detailsHeader">
-        <Link to="/">
-            <IoIosMenu />
+        <Link to="/ObjectList">
+          <IoIosMenu />
         </Link>
         <IoCubeOutline />
         colissimo
       </div>
       <main>
-        <div className="objectNumber">{client.objectNumber}</div>
+        <div className="objectNumber">{clientDetails.objectNumber}</div>
         <div className="contactIcons">
           <GenericButton icon={<FiPhone />} />
           <GenericButton icon={<HiOutlineChatBubbleBottomCenterText />} />
@@ -35,20 +37,28 @@ const client = JSON.parse(localStorage.getItem("clientList"))
         </div>
         <div className="recipient">
           <h4>destinataire</h4>
-          <p>{client.name}</p>
+          <p>{clientDetails.name}</p>
         </div>
         <div className="address">
           <h4>adresse</h4>
-          <p>{client.address}</p>
+          <p>{clientDetails.address}</p>
           <GenericButton icon={<FaPen />} />
         </div>
       </main>
 
       <div className="detailsFooter">
-        <GenericButton text="Boîte aux lettres" icon={<PiMailboxLight />} />
-        <GenericButton text="Destinataire" icon={<GrUserManager />} />
-        <GenericButton text="Tiers" icon={<PiUsersThreeLight />} />
-        <GenericButton text="Non remis" icon={<BsXCircle />} />
+        <Link to="/DistributionValidation" onClick={recupDistri}>
+          <GenericButton text="Boîte aux lettres" icon={<PiMailboxLight />} />
+        </Link>
+        <Link>
+          <GenericButton text="Destinataire" icon={<GrUserManager />} />
+        </Link>
+        <Link>
+          <GenericButton text="Tiers" icon={<PiUsersThreeLight />} />
+        </Link>
+        <Link>
+          <GenericButton text="Non remis" icon={<BsXCircle />} />
+        </Link>
       </div>
     </div>
   );

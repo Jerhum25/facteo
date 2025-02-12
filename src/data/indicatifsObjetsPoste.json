@@ -1,0 +1,3610 @@
+[
+  {
+    "objectIndicator": "0A",
+    "objectDesignation": "Import DPD Allemagne Coliposte avec signature"
+  },
+  {
+    "objectIndicator": "0B",
+    "objectDesignation": "Import DPD Allemagne Coliposte sans signature"
+  },
+  {
+    "objectIndicator": "0D",
+    "objectDesignation": "Chronopost DPD"
+  },
+  {
+    "objectIndicator": "0E",
+    "objectDesignation": "DPD National (ancien Cargo)"
+  },
+  {
+    "objectIndicator": "0F",
+    "objectDesignation": "DPD National (nouveau Cargo)"
+  },
+  {
+    "objectIndicator": "0G",
+    "objectDesignation": "DPD National (Geolabel)"
+  },
+  {
+    "objectIndicator": "0J",
+    "objectDesignation": "Colissimo domicile import avec signature"
+  },
+  {
+    "objectIndicator": "0L",
+    "objectDesignation": "Colissimo domicile import sans signature"
+  },
+  {
+    "objectIndicator": "0M",
+    "objectDesignation": "MASTER COLIS"
+  },
+  {
+    "objectIndicator": "0N",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "0O",
+    "objectDesignation": "SmartData Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "0P",
+    "objectDesignation": "ENVELOPPE SERVICES"
+  },
+  {
+    "objectIndicator": "0S",
+    "objectDesignation": "SmartData suivie"
+  },
+  {
+    "objectIndicator": "0U",
+    "objectDesignation": "SmartData signée"
+  },
+  {
+    "objectIndicator": "0V",
+    "objectDesignation": "SmartData recommandée avec AR Num"
+  },
+  {
+    "objectIndicator": "0W",
+    "objectDesignation": "SmartData recommandée sans AR"
+  },
+  {
+    "objectIndicator": "0X",
+    "objectDesignation": "SmartData recommandée avec AR papier"
+  },
+  {
+    "objectIndicator": "0Y",
+    "objectDesignation": "SmartData recommandée nouvelle liasse sans AR"
+  },
+  {
+    "objectIndicator": "0Z",
+    "objectDesignation": "SmartData recommandée nouvelle liasse avec AR"
+  },
+  {
+    "objectIndicator": "1A",
+    "objectDesignation": "LR SUIVIE (Grand Public) AVEC AR (nlle liasse)"
+  },
+  {
+    "objectIndicator": "1B",
+    "objectDesignation": "LR SUIVIE (Grand Public) SANS AR (nlle liasse)"
+  },
+  {
+    "objectIndicator": "1C",
+    "objectDesignation": "FREQUENCE A Aller SANS signature"
+  },
+  {
+    "objectIndicator": "1D",
+    "objectDesignation": "DISTINGO SUIVI"
+  },
+  {
+    "objectIndicator": "1E",
+    "objectDesignation": "LREL distribution physique AVEC AR"
+  },
+  {
+    "objectIndicator": "1F",
+    "objectDesignation": "LREL distribution physique SANS AR"
+  },
+  {
+    "objectIndicator": "1G",
+    "objectDesignation": "**INACTIF**Option suivi Lettre verte - MTEL"
+  },
+  {
+    "objectIndicator": "1H",
+    "objectDesignation": "PAE LETTRE MAX"
+  },
+  {
+    "objectIndicator": "1J",
+    "objectDesignation": "FREQUENCE A ALLER AVEC SIGNATURE"
+  },
+  {
+    "objectIndicator": "1K",
+    "objectDesignation": "PRÊT A POSTER SUIVI"
+  },
+  {
+    "objectIndicator": "1L",
+    "objectDesignation": "LETTRE SUIVIE (Automates,MTEL et TLS)"
+  },
+  {
+    "objectIndicator": "1M",
+    "objectDesignation": "**INACTIF**Option suivi Lettre verte - Automate"
+  },
+  {
+    "objectIndicator": "1N",
+    "objectDesignation": "FREQUENCE A PREPAYEE"
+  },
+  {
+    "objectIndicator": "1P",
+    "objectDesignation": "PRET A RECOMMANDER SUIVI"
+  },
+  {
+    "objectIndicator": "1Q",
+    "objectDesignation": "LETTRE SERVICE FACTEUR si échec remise en BAL"
+  },
+  {
+    "objectIndicator": "1R",
+    "objectDesignation": "FREQUENCE A NAVETTE AVEC SIGNATURE"
+  },
+  {
+    "objectIndicator": "1S",
+    "objectDesignation": "Prêt A Poster Expert"
+  },
+  {
+    "objectIndicator": "1T",
+    "objectDesignation": "FREQUENCE A RETOUR T"
+  },
+  {
+    "objectIndicator": "1U",
+    "objectDesignation": "LETTRE URGENTE"
+  },
+  {
+    "objectIndicator": "1V",
+    "objectDesignation": "NAVETTE INTER-ENTREPRISES"
+  },
+  {
+    "objectIndicator": "1W",
+    "objectDesignation": "FREQUENCE C AVEC SIGNATURE"
+  },
+  {
+    "objectIndicator": "1X",
+    "objectDesignation": "FREQUENCE A NAVETTE SANS SIGNATURE"
+  },
+  {
+    "objectIndicator": "1Y",
+    "objectDesignation": "LETTRE SUIVIE (Guichet)"
+  },
+  {
+    "objectIndicator": "1Z",
+    "objectDesignation": "Option suivi - MTEL"
+  },
+  {
+    "objectIndicator": "2A",
+    "objectDesignation": "**INACTIF** LR SUIVIE AVEC AR (en compte ou e-bdx)"
+  },
+  {
+    "objectIndicator": "2B",
+    "objectDesignation": "**INACTIF** LR SUIVIE SANS AR (en compte ou e-bdx)"
+  },
+  {
+    "objectIndicator": "2C",
+    "objectDesignation": "LR SUIVIE AVEC AR"
+  },
+  {
+    "objectIndicator": "2D",
+    "objectDesignation": "LR SUIVIE SANS AR"
+  },
+  {
+    "objectIndicator": "2E",
+    "objectDesignation": "LR SUPPORT BUREAUTIQUE AVEC AR"
+  },
+  {
+    "objectIndicator": "2F",
+    "objectDesignation": "LR SUPPORT BUREAUTIQUE SANS AR"
+  },
+  {
+    "objectIndicator": "2G",
+    "objectDesignation": "RETOUR PETITS OBJETS"
+  },
+  {
+    "objectIndicator": "2H",
+    "objectDesignation": "SERVICE LETTRE MAX"
+  },
+  {
+    "objectIndicator": "2J",
+    "objectDesignation": "Option suivi - Automate"
+  },
+  {
+    "objectIndicator": "2K",
+    "objectDesignation": "LETTRE J3 SUIVIE (EN,CI)"
+  },
+  {
+    "objectIndicator": "2L",
+    "objectDesignation": "LETTRE J3 SUIVIE (EG)"
+  },
+  {
+    "objectIndicator": "2M",
+    "objectDesignation": "LETTRE J3 SIGNEE"
+  },
+  {
+    "objectIndicator": "2N",
+    "objectDesignation": "LETTRE J2 SUIVIE (EN,CI)"
+  },
+  {
+    "objectIndicator": "2O",
+    "objectDesignation": "SUIVI SUR MESURE"
+  },
+  {
+    "objectIndicator": "2P",
+    "objectDesignation": "LETTRE EXPERT ECHANGE"
+  },
+  {
+    "objectIndicator": "2Q",
+    "objectDesignation": "LETTRE SERVICE FACTEUR si échec Retour Expéditeur"
+  },
+  {
+    "objectIndicator": "2R",
+    "objectDesignation": "IN'VERSO AVEC SIGNATURE"
+  },
+  {
+    "objectIndicator": "2S",
+    "objectDesignation": "OPTIMA REPONSE SUIVI"
+  },
+  {
+    "objectIndicator": "2T",
+    "objectDesignation": "EXPRESSION REPONSE SUIVI"
+  },
+  {
+    "objectIndicator": "2U",
+    "objectDesignation": "Option suivi - Automate"
+  },
+  {
+    "objectIndicator": "2V",
+    "objectDesignation": "FREQUENCEO DISTRIBUTION SANS SIGNATURE"
+  },
+  {
+    "objectIndicator": "2W",
+    "objectDesignation": "FREQUENCEO REMISE CONTRE SIGNATURE"
+  },
+  {
+    "objectIndicator": "2X",
+    "objectDesignation": "IN'VERSO SANS SIGNATURE"
+  },
+  {
+    "objectIndicator": "2Y",
+    "objectDesignation": "LETTRE SUIVIE EN LIGNE (LSEL)"
+  },
+  {
+    "objectIndicator": "2Z",
+    "objectDesignation": "LETTRE J2 SUIVIE (EG)"
+  },
+  {
+    "objectIndicator": "3A",
+    "objectDesignation": "LR PREMIUM AUTOMATE AVEC AR"
+  },
+  {
+    "objectIndicator": "3B",
+    "objectDesignation": "LR PREMIUM AUTOMATE SANS AR"
+  },
+  {
+    "objectIndicator": "3C",
+    "objectDesignation": "LR PREMIUM AVEC AR PAPIER"
+  },
+  {
+    "objectIndicator": "3D",
+    "objectDesignation": "LR PREMIUM SANS AR"
+  },
+  {
+    "objectIndicator": "3E",
+    "objectDesignation": "VIGNETTE LR Internet AVEC AR"
+  },
+  {
+    "objectIndicator": "3F",
+    "objectDesignation": "VIGNETTE LR Internet SANS AR"
+  },
+  {
+    "objectIndicator": "3G",
+    "objectDesignation": "LR PREMIUM AVEC AR NUM"
+  },
+  {
+    "objectIndicator": "3K",
+    "objectDesignation": "LETTRE SUIVIE KISS KEYS"
+  },
+  {
+    "objectIndicator": "3L",
+    "objectDesignation": "SMART VALEUR DECLAREE"
+  },
+  {
+    "objectIndicator": "3O",
+    "objectDesignation": "MANDAT IMPORT"
+  },
+  {
+    "objectIndicator": "3P",
+    "objectDesignation": "LR MOBILE"
+  },
+  {
+    "objectIndicator": "3Q",
+    "objectDesignation": "LETTRE SERVICE FACTEUR échange si échec Retour Expéditeur"
+  },
+  {
+    "objectIndicator": "3R",
+    "objectDesignation": "SMART VALEUR DECLAREE sans AR"
+  },
+  {
+    "objectIndicator": "3S",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "3T",
+    "objectDesignation": "LETTRE TAXEE"
+  },
+  {
+    "objectIndicator": "3U",
+    "objectDesignation": "LETTRE SUIVIE Banque de France"
+  },
+  {
+    "objectIndicator": "3X",
+    "objectDesignation": "Option suivi - Planche stickers par 100"
+  },
+  {
+    "objectIndicator": "3Y",
+    "objectDesignation": "Option suivi - Carnet 12 stickers"
+  },
+  {
+    "objectIndicator": "3Z",
+    "objectDesignation": "PETIT PAQUET IMPORT AVEC DROITS DE DOUANE"
+  },
+  {
+    "objectIndicator": "4A",
+    "objectDesignation": "VD AVEC AR (Guichet)"
+  },
+  {
+    "objectIndicator": "4B",
+    "objectDesignation": "ENVELOPPE DE DEPOT COMMISSION"
+  },
+  {
+    "objectIndicator": "4C",
+    "objectDesignation": "VD AVEC AR (Bureautique)"
+  },
+  {
+    "objectIndicator": "4E",
+    "objectDesignation": "ENVELOPPE DE DEPOT EN APC"
+  },
+  {
+    "objectIndicator": "4G",
+    "objectDesignation": "VD SANS AR (Grand Public)"
+  },
+  {
+    "objectIndicator": "4H",
+    "objectDesignation": "SACOCHE MEDIATHEQUE"
+  },
+  {
+    "objectIndicator": "4J",
+    "objectDesignation": "VD SANS AR"
+  },
+  {
+    "objectIndicator": "4K",
+    "objectDesignation": "PORTAGE MEDICAMENT"
+  },
+  {
+    "objectIndicator": "4L",
+    "objectDesignation": "COLIS J"
+  },
+  {
+    "objectIndicator": "4M",
+    "objectDesignation": "Transport Marchandises Diverses"
+  },
+  {
+    "objectIndicator": "4N",
+    "objectDesignation": "CE30 marchandises MASLOW"
+  },
+  {
+    "objectIndicator": "4P",
+    "objectDesignation": "LR MOBILE 50 G"
+  },
+  {
+    "objectIndicator": "4R",
+    "objectDesignation": "Transport Contenant Marchandises Diverses"
+  },
+  {
+    "objectIndicator": "4S",
+    "objectDesignation": "Transport de marchandises MASLOW"
+  },
+  {
+    "objectIndicator": "4V",
+    "objectDesignation": "CHARGEMENT D'OFFICE"
+  },
+  {
+    "objectIndicator": "4Y",
+    "objectDesignation": "Expérimentation Portage (sans signature)"
+  },
+  {
+    "objectIndicator": "4Z",
+    "objectDesignation": "Expérimentation Portage (avec signature)"
+  },
+  {
+    "objectIndicator": "5A",
+    "objectDesignation": "LREL distribution numérique AVEC AR"
+  },
+  {
+    "objectIndicator": "5B",
+    "objectDesignation": "LREL distribution numérique SANS AR"
+  },
+  {
+    "objectIndicator": "5C",
+    "objectDesignation": "LA LETTRE RECOMMANDEE ELECTRONIQUE"
+  },
+  {
+    "objectIndicator": "5H",
+    "objectDesignation": "LETTRE EXPERT (équipement professionnel)"
+  },
+  {
+    "objectIndicator": "5I",
+    "objectDesignation": "Palette MEDIAPOST"
+  },
+  {
+    "objectIndicator": "5J",
+    "objectDesignation": "Palette MEDIAPOST"
+  },
+  {
+    "objectIndicator": "5K",
+    "objectDesignation": "Palette My Transport"
+  },
+  {
+    "objectIndicator": "5N",
+    "objectDesignation": "Timbre Colissimo"
+  },
+  {
+    "objectIndicator": "5P",
+    "objectDesignation": "COLISSIMO France avec livraison en relais Pickup"
+  },
+  {
+    "objectIndicator": "5R",
+    "objectDesignation": "COLISSIMO RETOUR OM"
+  },
+  {
+    "objectIndicator": "5W",
+    "objectDesignation": "COLISSIMO ECO France"
+  },
+  {
+    "objectIndicator": "5X",
+    "objectDesignation": "COLISSIMO RECO F WEB BAL"
+  },
+  {
+    "objectIndicator": "5Y",
+    "objectDesignation": "COLISSIMO F WEB BAL"
+  },
+  {
+    "objectIndicator": "5Z",
+    "objectDesignation": "COLISSIMO EMBALLAGE FRANCE sans Signature"
+  },
+  {
+    "objectIndicator": "6A",
+    "objectDesignation": "SO COLISSIMO DOMICILE sans signature"
+  },
+  {
+    "objectIndicator": "6B",
+    "objectDesignation": "SO COLISSIMO BP RAPIDE"
+  },
+  {
+    "objectIndicator": "6C",
+    "objectDesignation": "SO COLISSIMO DOMICILE avec signature"
+  },
+  {
+    "objectIndicator": "6D",
+    "objectDesignation": "COLISSIMO NEXT DAY"
+  },
+  {
+    "objectIndicator": "6G",
+    "objectDesignation": "COLISSIMO RAPIDE"
+  },
+  {
+    "objectIndicator": "6H",
+    "objectDesignation": "SO COLISSIMO BUREAU DE POSTE"
+  },
+  {
+    "objectIndicator": "6I",
+    "objectDesignation": "COLISSIMO RAPIDE SIGNATURE"
+  },
+  {
+    "objectIndicator": "6J",
+    "objectDesignation": "SO COLISSIMO CITYSSIMO"
+  },
+  {
+    "objectIndicator": "6K",
+    "objectDesignation": "SO COLISSIMO RENDEZ-VOUS"
+  },
+  {
+    "objectIndicator": "6M",
+    "objectDesignation": "SO COLISSIMO COMMERCANTS A2PAS"
+  },
+  {
+    "objectIndicator": "6N",
+    "objectDesignation": "SO COLISSIMO RELAIS RAPIDE"
+  },
+  {
+    "objectIndicator": "6P",
+    "objectDesignation": "COLISSIMO PLAT"
+  },
+  {
+    "objectIndicator": "6Q",
+    "objectDesignation": "SO COLISSIMO DOMICILE sans signature"
+  },
+  {
+    "objectIndicator": "6R",
+    "objectDesignation": "SO COLISSIMO BUREAU DE POSTE"
+  },
+  {
+    "objectIndicator": "6S",
+    "objectDesignation": "SO COLISSIMO CITYSSIMO"
+  },
+  {
+    "objectIndicator": "6T",
+    "objectDesignation": "SO COLISSIMO RENDEZ-VOUS"
+  },
+  {
+    "objectIndicator": "6V",
+    "objectDesignation": "COLISSIMO NEXT DAY avec signature"
+  },
+  {
+    "objectIndicator": "6W",
+    "objectDesignation": "SO COLISSIMO COMMERCANTS A2PAS"
+  },
+  {
+    "objectIndicator": "6X",
+    "objectDesignation": "COLISSIMO PLAT RAPIDE"
+  },
+  {
+    "objectIndicator": "6Y",
+    "objectDesignation": "COLISSIMO PROFIL RELAIS"
+  },
+  {
+    "objectIndicator": "6Z",
+    "objectDesignation": "COLISSIMO PROFIL BP"
+  },
+  {
+    "objectIndicator": "7A",
+    "objectDesignation": "COLISSIMO EXPERT OUTRE-MER SI"
+  },
+  {
+    "objectIndicator": "7B",
+    "objectDesignation": "COLISSIMO OUTRE-MER e-C2C"
+  },
+  {
+    "objectIndicator": "7C",
+    "objectDesignation": "COLISSIMO RECOMMANDE OUTRE-MER e-C2C"
+  },
+  {
+    "objectIndicator": "7D",
+    "objectDesignation": "COLISSIMO ACCESS FRANCE PA"
+  },
+  {
+    "objectIndicator": "7J",
+    "objectDesignation": "COLISSIMO J"
+  },
+  {
+    "objectIndicator": "7M",
+    "objectDesignation": "COLIS ECONOMIQUE OUTRE-MER"
+  },
+  {
+    "objectIndicator": "7O",
+    "objectDesignation": "SO COLISSIMO BUREAU POSTE IMPORT"
+  },
+  {
+    "objectIndicator": "7P",
+    "objectDesignation": "COLISSIMO ACCESS FRANCE IMPORT"
+  },
+  {
+    "objectIndicator": "7Q",
+    "objectDesignation": "COLISSIMO EXPERT OUTRE-MER SI"
+  },
+  {
+    "objectIndicator": "7R",
+    "objectDesignation": "RETOUR COLISSIMO INTERNATIONAL"
+  },
+  {
+    "objectIndicator": "7S",
+    "objectDesignation": "COLISSIMO J SIGNATURE"
+  },
+  {
+    "objectIndicator": "7T",
+    "objectDesignation": "PETIT PAQUET IMPORT RECOMMANDE"
+  },
+  {
+    "objectIndicator": "7U",
+    "objectDesignation": "COLISSIMO ECO OUTRE-MER AVEC SIGNATURE"
+  },
+  {
+    "objectIndicator": "7V",
+    "objectDesignation": "SHIP FROM STORE"
+  },
+  {
+    "objectIndicator": "7W",
+    "objectDesignation": "COLIECO"
+  },
+  {
+    "objectIndicator": "7X",
+    "objectDesignation": "PRODUIT URGENT"
+  },
+  {
+    "objectIndicator": "7Y",
+    "objectDesignation": "COURRIER CATALOGUE"
+  },
+  {
+    "objectIndicator": "7Z",
+    "objectDesignation": "PETIT PAQUET IMPORT"
+  },
+  {
+    "objectIndicator": "8A",
+    "objectDesignation": "COLISSIMO EXPERT FRANCE aff. M.A.I."
+  },
+  {
+    "objectIndicator": "8D",
+    "objectDesignation": "COLISSIMO EMBALLAGE FRANCE"
+  },
+  {
+    "objectIndicator": "8F",
+    "objectDesignation": "COLISSIMO EXPERT OUTRE-MER PA"
+  },
+  {
+    "objectIndicator": "8G",
+    "objectDesignation": "COLISSIMO PROFIL"
+  },
+  {
+    "objectIndicator": "8H",
+    "objectDesignation": "COLISSIMO ACCESS FRANCE aff. M.A.I."
+  },
+  {
+    "objectIndicator": "8J",
+    "objectDesignation": "COLISSIMO e-C2C"
+  },
+  {
+    "objectIndicator": "8K",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "8L",
+    "objectDesignation": "COLISSIMO ACCESS FRANCE SI"
+  },
+  {
+    "objectIndicator": "8N",
+    "objectDesignation": "COLISSIMO GUICHET"
+  },
+  {
+    "objectIndicator": "8O",
+    "objectDesignation": "COLISSIMO SUIVI (Interne)"
+  },
+  {
+    "objectIndicator": "8P",
+    "objectDesignation": "COLISSIMO EXPERT FRANCE PA"
+  },
+  {
+    "objectIndicator": "8Q",
+    "objectDesignation": "COLISSIMO ACCESS OUTRE-MER SI"
+  },
+  {
+    "objectIndicator": "8R",
+    "objectDesignation": "COLISSIMO SERVICES FRANCE"
+  },
+  {
+    "objectIndicator": "8T",
+    "objectDesignation": "COLISSIMO EMBALLAGE OUTRE-MER"
+  },
+  {
+    "objectIndicator": "8U",
+    "objectDesignation": "COLISSIMO RECOMMANDE"
+  },
+  {
+    "objectIndicator": "8V",
+    "objectDesignation": "COLISSIMO EXPERT FRANCE SI"
+  },
+  {
+    "objectIndicator": "8W",
+    "objectDesignation": "COLIECO TS2"
+  },
+  {
+    "objectIndicator": "8X",
+    "objectDesignation": "COLISSIMO RECOMMANDE e-C2C"
+  },
+  {
+    "objectIndicator": "8Y",
+    "objectDesignation": "COLISSIMO OUTRE-MER GUICHET"
+  },
+  {
+    "objectIndicator": "8Z",
+    "objectDesignation": "COLISSIMO RECOMMANDE OUTRE-MER GUICHET"
+  },
+  {
+    "objectIndicator": "9A",
+    "objectDesignation": "COLISSIMO ONLINE ACCESS F"
+  },
+  {
+    "objectIndicator": "9B",
+    "objectDesignation": "COLISSIMO ONLINE ACCESS OM"
+  },
+  {
+    "objectIndicator": "9C",
+    "objectDesignation": "COLISSIMO ONLINE EXPERT F"
+  },
+  {
+    "objectIndicator": "9D",
+    "objectDesignation": "COLISSIMO ONLINE EXPERT OM"
+  },
+  {
+    "objectIndicator": "9E",
+    "objectDesignation": "COLISSIMO ONLINE SERVICES F"
+  },
+  {
+    "objectIndicator": "9F",
+    "objectDesignation": "COLISSIMO ACCESS INTERNE"
+  },
+  {
+    "objectIndicator": "9G",
+    "objectDesignation": "COLISSIMO RELAIS (Inactif)"
+  },
+  {
+    "objectIndicator": "9H",
+    "objectDesignation": "SO COLISSIMO BUREAU DE POSTE"
+  },
+  {
+    "objectIndicator": "9J",
+    "objectDesignation": "SO COLISSIMO CITYSSIMO"
+  },
+  {
+    "objectIndicator": "9K",
+    "objectDesignation": "SO COLISSIMO RENDEZ-VOUS"
+  },
+  {
+    "objectIndicator": "9L",
+    "objectDesignation": "COLISSIMO ACCESS FRANCE SI"
+  },
+  {
+    "objectIndicator": "9M",
+    "objectDesignation": "SO COLISSIMO COMMERCANTS A2PAS"
+  },
+  {
+    "objectIndicator": "9N",
+    "objectDesignation": "SO COLISSIMO COMMERCANTS MONDIAL RELAY"
+  },
+  {
+    "objectIndicator": "9P",
+    "objectDesignation": "COLISSIMO ACCESS F WEB PLAT"
+  },
+  {
+    "objectIndicator": "9Q",
+    "objectDesignation": "SO COLISSIMO DOMICILE sans signature"
+  },
+  {
+    "objectIndicator": "9R",
+    "objectDesignation": "SO COLISSIMO BUREAU DE POSTE"
+  },
+  {
+    "objectIndicator": "9S",
+    "objectDesignation": "SO COLISSIMO CITYSSIMO"
+  },
+  {
+    "objectIndicator": "9T",
+    "objectDesignation": "SO COLISSIMO RENDEZ-VOUS"
+  },
+  {
+    "objectIndicator": "9V",
+    "objectDesignation": "COLISSIMO EXPERT FRANCE SI"
+  },
+  {
+    "objectIndicator": "9W",
+    "objectDesignation": "COLISSIMO OUTRE-MER"
+  },
+  {
+    "objectIndicator": "9X",
+    "objectDesignation": "SO COLISSIMO COMMERCANTS MONDIAL RELAY"
+  },
+  {
+    "objectIndicator": "AA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "AJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "AO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "AP",
+    "objectDesignation": "STROBE LITE"
+  },
+  {
+    "objectIndicator": "AQ",
+    "objectDesignation": "STROBE LITE"
+  },
+  {
+    "objectIndicator": "AR",
+    "objectDesignation": "STROBE LITE"
+  },
+  {
+    "objectIndicator": "AS",
+    "objectDesignation": "STROBE LITE"
+  },
+  {
+    "objectIndicator": "AT",
+    "objectDesignation": "STROBE LITE"
+  },
+  {
+    "objectIndicator": "AU",
+    "objectDesignation": "STROBE LITE"
+  },
+  {
+    "objectIndicator": "AV",
+    "objectDesignation": "Interconnect @ commerce"
+  },
+  {
+    "objectIndicator": "AW",
+    "objectDesignation": "Interconnect @ commerce"
+  },
+  {
+    "objectIndicator": "AX",
+    "objectDesignation": "Interconnect @ commerce"
+  },
+  {
+    "objectIndicator": "AY",
+    "objectDesignation": "Interconnect @ commerce"
+  },
+  {
+    "objectIndicator": "AZ",
+    "objectDesignation": "Interconnect @ commerce"
+  },
+  {
+    "objectIndicator": "BA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "BJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "BP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "BR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "BZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "CA",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CB",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CC",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CD",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CE",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CF",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CG",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CI",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CK",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CL",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CM",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CN",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CO",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CP",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CQ",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CR",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CS",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CT",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CU",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CV",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CW",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CX",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CY",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "CZ",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "DA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "DJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "DP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "DR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "DZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "E0",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "E1",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "E2",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "E3",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "E4",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "E5",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "E6",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "E7",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "E8",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "E9",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "EA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ED",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EE",
+    "objectDesignation": "CHRONOPOST NATIONAL"
+  },
+  {
+    "objectIndicator": "EF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EH",
+    "objectDesignation": "COLISSIMO EXPERT INTERNATIONAL SI"
+  },
+  {
+    "objectIndicator": "EI",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EO",
+    "objectDesignation": "COLISSIMO INTER KPG ERS"
+  },
+  {
+    "objectIndicator": "EP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EQ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ER",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ES",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ET",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "EW",
+    "objectDesignation": "COLISSIMO KPG I WEB"
+  },
+  {
+    "objectIndicator": "EX",
+    "objectDesignation": "COLISSIMO KPG EXPERT I WEB"
+  },
+  {
+    "objectIndicator": "EY",
+    "objectDesignation": "COLISSIMO EXPERT INTERNATIONAL SI"
+  },
+  {
+    "objectIndicator": "EZ",
+    "objectDesignation": "CHRONOPOST NATIONAL"
+  },
+  {
+    "objectIndicator": "FA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "FJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "FP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "FR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "FZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "GJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "GP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "GR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "GZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "H0",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "H1",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "H2",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "H3",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "H4",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "H5",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "H6",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "H7",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "H8",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "H9",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "HA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HE",
+    "objectDesignation": "COLISSIMO ECO INTER"
+  },
+  {
+    "objectIndicator": "HF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "HJ",
+    "objectDesignation": "COLISSIMO SUIVI IMPORT"
+  },
+  {
+    "objectIndicator": "HK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "HP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "HR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "HZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ID",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "II",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "IP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "IR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "IZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "JJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "JP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "JR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "JZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "KJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KO",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "KR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "KZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "LA",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LB",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LC",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LD",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LE",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LF",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LG",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LH",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LI",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LJ",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LK",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LL",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LM",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LN",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LO",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LP",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LQ",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LR",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LS",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LT",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LU",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LV",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LW",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LX",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LY",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "LZ",
+    "objectDesignation": "LETTRE SUIVIE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "MA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ME",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "MJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ML",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "MP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "MR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "MZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ND",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "NJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "NP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "NR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "NZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "OJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ON",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "OP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OQ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "OZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "PJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "PP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "PR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "PZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "QJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "QP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QQ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "QZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "RA",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RB",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RC",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RD",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RE",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RF",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RG",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RH",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RI",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RJ",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RK",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RL",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RM",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RN",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RO",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RP",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RQ",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RR",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RS",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RT",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RU",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RV",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RW",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RX",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RY",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "RZ",
+    "objectDesignation": "LETTRE RECOMMANDEE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "SA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "SJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "SP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "SR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ST",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "SZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "TJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TO",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TQ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "TZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "UA",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UB",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UC",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UD",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UE",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UF",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UG",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UH",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UI",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UJ",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UK",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UL",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UM",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UN",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UO",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UP",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UQ",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UR",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "US",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UT",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UU",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UV",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UW",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UX",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UY",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "UZ",
+    "objectDesignation": "MARCHANDISE ORDINAIRE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VA",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VB",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VC",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VD",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VE",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VF",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VG",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VH",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VI",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VJ",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VK",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VL",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VM",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VN",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VO",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VP",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VQ",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VR",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VS",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VT",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VU",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VV",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VW",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VX",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VY",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "VZ",
+    "objectDesignation": "VALEUR DECLAREE INTERNATIONALE"
+  },
+  {
+    "objectIndicator": "WA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "WJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "WP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WQ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "WZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "XJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "XP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XQ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XS",
+    "objectDesignation": "CHRONOPASS LIBERTY"
+  },
+  {
+    "objectIndicator": "XT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "XZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "YJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "YP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "YR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "YZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "Z0",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "Z1",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "Z2",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "Z3",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "Z4",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "Z5",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "Z6",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "Z7",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "Z8",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "Z9",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "ZA",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZB",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZC",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZD",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZE",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZF",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZG",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZH",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZI",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "ZJ",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZK",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZL",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZM",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZN",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZO",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "ZP",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZQ",
+    "objectDesignation": "Objet Ordinaire"
+  },
+  {
+    "objectIndicator": "ZR",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZS",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZT",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZU",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZV",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZW",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZX",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZY",
+    "objectDesignation": "Produit CHRONOPOST"
+  },
+  {
+    "objectIndicator": "ZZ",
+    "objectDesignation": "Produit CHRONOPOST"
+  }
+]

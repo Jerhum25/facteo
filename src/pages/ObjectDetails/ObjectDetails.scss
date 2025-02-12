@@ -90,16 +90,19 @@
     gap: 5px;
     background-color: lightgrey;
     padding: 10px;
-    .genericButtonContainer {
-      width: 100%;
-      background-color: #fff;
-      font-size: 14px;
-      border: 1px solid #000;
-      svg {
-        font-size: 28px;
-      }
-      &:first-child {
-        border: 4px solid orange;
+    a{
+      color: #000;
+      .genericButtonContainer {
+        width: 100%;
+        background-color: #fff;
+        font-size: 14px;
+        border: 1px solid #000;
+        svg {
+          font-size: 28px;
+        }
+        &:first-child {
+          border: 4px solid orange;
+        }
       }
     }
   }

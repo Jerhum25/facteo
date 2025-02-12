@@ -3,7 +3,6 @@ import "./ObjectCards.scss";
 import React from "react";
 import baseObjets from "../../data/baseObjets.json";
 import ObjectCard from "../ObjectCard/ObjectCard";
-console.log(baseObjets);
 
 function ObjectCards(props) {
   return (

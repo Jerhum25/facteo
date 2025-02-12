@@ -8,6 +8,7 @@ import Page404 from "./pages/Page404/Page404";
 import Recap from "./pages/Recap/Recap";
 import ObjectsList from "./pages/ObjectsList/ObjectsList";
 import ObjectDetails from "./pages/ObjectDetails/ObjectDetails";
+import DistributionValidation from "./pages/DistributionValidation/DistributionValidation";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -18,6 +19,7 @@ root.render(
           <Route path="/" element={<Recap />} />
           <Route path="/ObjectList" element={<ObjectsList />} />
           <Route path="/ObjectDetails" element={<ObjectDetails />} />
+          <Route path="/DistributionValidation" element={<DistributionValidation />} />
           <Route path="/Page404" element={<Page404/>} />
         {/* </Route> */}
       </Routes>
