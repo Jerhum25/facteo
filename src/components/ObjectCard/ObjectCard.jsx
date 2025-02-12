@@ -11,7 +11,6 @@ function ObjectCard({ nom, adresse, numeroObjet }) {
 const contactDetails = {
     "name": nom,
     "address": adresse,
-    "objectNumber": numeroObjet,
     "distributionReason": ""
 }
   return (

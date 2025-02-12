@@ -9,6 +9,20 @@
       color: #000;
     }
   }
+  .scanBtn {
+    svg {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      font-size: 30px;
+      color: #000;
+      background-color: #f2f550;
+      width: 50px;
+      height: 50px;
+      padding: 5px;
+      border-radius: 50%;
+    }
+  }
   .recapHeader {
     display: flex;
     justify-content: space-between;

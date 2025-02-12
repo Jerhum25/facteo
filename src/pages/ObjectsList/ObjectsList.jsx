@@ -7,6 +7,7 @@ import { CiMenuKebab } from "react-icons/ci";
 import { IoIosMenu } from "react-icons/io";
 import { IoSearchSharp } from "react-icons/io5";
 import { Link } from "react-router-dom";
+import { PiBarcode, PiBarcodeBold } from "react-icons/pi";
 
 function ObjectsList(props) {
   return (
@@ -31,6 +32,7 @@ function ObjectsList(props) {
       <Link to="/" className="backBtn">
         <FaArrowAltCircleLeft />
       </Link>
+      <Link to="/ObjectScan" className="scanBtn"><PiBarcode /></Link>
     </div>
   );
 }

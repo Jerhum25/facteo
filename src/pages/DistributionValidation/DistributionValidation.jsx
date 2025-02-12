@@ -7,7 +7,8 @@ import { IoCubeOutline } from "react-icons/io5";
 import GenericButton from "../../components/GenericButton/GenericButton";
 
 function DistributionValidation(props) {
-  const clientDetails = JSON.parse(localStorage.getItem("clientDetails"));
+  // const clientDetails = JSON.parse(localStorage.getItem("clientDetails"));
+  const objectNumber = JSON.parse(localStorage.getItem("objectNumber"));
   const distributionReason = localStorage.getItem("distributionReason");
   return (
     <div className="distributionValidationContainer">
@@ -19,14 +20,14 @@ function DistributionValidation(props) {
         colissimo
       </div>
       <main>
-        <div className="objectNumber">{clientDetails.objectNumber}</div>
+        <div className="objectNumber">{objectNumber}</div>
         <div className="recipient">
           <h4>destinataire</h4>
-          <p>{clientDetails.name}</p>
+          {/* <p>{clientDetails.name}</p> */}
         </div>
         <div className="address">
           <h4>adresse</h4>
-          <p>{clientDetails.address}</p>
+          {/* <p>{clientDetails.address}</p> */}
         </div>
         <div className="confirmation">
           <p>{distributionReason}</p>

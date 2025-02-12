@@ -14,9 +14,15 @@ import GenericButton from "../../components/GenericButton/GenericButton";
 
 function ObjectDetails() {
   let clientDetails = JSON.parse(localStorage.getItem("clientDetails"));
-
-  function recupDistri(e) {
+  let objectNumber = JSON.parse(localStorage.getItem("objectNumber"));
+  function distriOk(e) {
     localStorage.setItem("distributionReason", "Objet remis en BAL");
+  }
+  function distriRecipient(e) {
+    localStorage.setItem("distributionReason", "Objet remis au destinataire");
+  }
+  function distriThirdParty(e) {
+    localStorage.setItem("distributionReason", "Objet remis à un tiers");
   }
 
   return (
@@ -29,7 +35,7 @@ function ObjectDetails() {
         colissimo
       </div>
       <main>
-        <div className="objectNumber">{clientDetails.objectNumber}</div>
+        <div className="objectNumber">{objectNumber}</div>
         <div className="contactIcons">
           <GenericButton icon={<FiPhone />} />
           <GenericButton icon={<HiOutlineChatBubbleBottomCenterText />} />
@@ -37,23 +43,23 @@ function ObjectDetails() {
         </div>
         <div className="recipient">
           <h4>destinataire</h4>
-          <p>{clientDetails.name}</p>
+          {/* <p>{clientDetails.name}</p> */}
         </div>
         <div className="address">
           <h4>adresse</h4>
-          <p>{clientDetails.address}</p>
+          {/* <p>{clientDetails.address}</p> */}
           <GenericButton icon={<FaPen />} />
         </div>
       </main>
 
       <div className="detailsFooter">
-        <Link to="/DistributionValidation" onClick={recupDistri}>
+        <Link to="/DistributionValidation" onClick={distriOk}>
           <GenericButton text="Boîte aux lettres" icon={<PiMailboxLight />} />
         </Link>
-        <Link>
+        <Link to="/DistributionValidation" onClick={distriRecipient}>
           <GenericButton text="Destinataire" icon={<GrUserManager />} />
         </Link>
-        <Link>
+        <Link to="/DistributionValidation" onClick={distriThirdParty}>
           <GenericButton text="Tiers" icon={<PiUsersThreeLight />} />
         </Link>
         <Link>
