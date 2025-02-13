@@ -13,17 +13,10 @@ import { Link } from "react-router-dom";
 import GenericButton from "../../components/GenericButton/GenericButton";
 
 function ObjectDetails() {
-  let clientDetails = JSON.parse(localStorage.getItem("clientDetails"));
-  let objectNumber = JSON.parse(localStorage.getItem("objectNumber"));
-  function distriOk(e) {
-    localStorage.setItem("distributionReason", "Objet remis en BAL");
-  }
-  function distriRecipient(e) {
-    localStorage.setItem("distributionReason", "Objet remis au destinataire");
-  }
-  function distriThirdParty(e) {
-    localStorage.setItem("distributionReason", "Objet remis à un tiers");
-  }
+  const objectNumber = localStorage.getItem("objectNumber");
+  const name = localStorage.getItem("name");
+  const address = localStorage.getItem("address");
+
 
   return (
     <div className="objectDetailsContainer">
@@ -43,23 +36,38 @@ function ObjectDetails() {
         </div>
         <div className="recipient">
           <h4>destinataire</h4>
-          {/* <p>{clientDetails.name}</p> */}
+          <p>{name}</p>
         </div>
         <div className="address">
           <h4>adresse</h4>
-          {/* <p>{clientDetails.address}</p> */}
+          <p>{address}</p>
           <GenericButton icon={<FaPen />} />
         </div>
       </main>
 
       <div className="detailsFooter">
-        <Link to="/DistributionValidation" onClick={distriOk}>
+        <Link
+          to="/DistributionValidation"
+          onClick={() =>
+            localStorage.setItem("distributionReason", "Boîte à lettres")
+          }
+        >
           <GenericButton text="Boîte aux lettres" icon={<PiMailboxLight />} />
         </Link>
-        <Link to="/DistributionValidation" onClick={distriRecipient}>
+        <Link
+          to="/InfosSup"
+          onClick={() =>
+            localStorage.setItem("distributionReason", "Destinataire")
+          }
+        >
           <GenericButton text="Destinataire" icon={<GrUserManager />} />
         </Link>
-        <Link to="/DistributionValidation" onClick={distriThirdParty}>
+        <Link
+          to="/DistributionValidation"
+          onClick={() =>
+            localStorage.setItem("distributionReason", "Tiers")
+          }
+        >
           <GenericButton text="Tiers" icon={<PiUsersThreeLight />} />
         </Link>
         <Link>

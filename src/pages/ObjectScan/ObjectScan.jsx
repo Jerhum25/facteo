@@ -1,10 +1,11 @@
 import React, { useEffect, useState } from "react";
-import BarcodeScannerComponent from "react-qr-barcode-scanner";
+// import BarcodeScannerComponent from "react-qr-barcode-scanner";
 import { useNavigate } from "react-router-dom";
 import beepSound from "../../sounds/bip.mp3";
 import "./ObjectScan.scss";
 function ObjectScan({ onScan }) {
-  const [data, setData] = useState("Aucun code scanné");
+
+const [data, setData] = useState("Aucun code scanné");
 
   function playBeep() {
     const beep = new Audio(beepSound);
@@ -19,12 +20,12 @@ function ObjectScan({ onScan }) {
   return (
     <div className="objectScan">
       <h2>Scanner de Code-Barres</h2>
-      <BarcodeScannerComponent
+      {/* <BarcodeScannerComponent
         onUpdate={(err, result) => {
           if (result) {
             setData(result.text);
             playBeep();
-            localStorage.setItem("objectNumber", JSON.stringify(result.text));
+            localStorage.setItem("objectNumber", result.text);
             navigate("/ObjectDetails");
 
             if (onScan) {
@@ -32,7 +33,7 @@ function ObjectScan({ onScan }) {
             }
           }
         }}
-      />
+      /> */}
       <p>Résultat : {data}</p>
     </div>
   );

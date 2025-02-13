@@ -1,0 +1,76 @@
+.signatureTypeContainer {
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+
+  .signatureTypeHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: orange;
+    position: relative;
+    gap: 10px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    a {
+      position: absolute;
+      left: 10px;
+      font-size: 20px;
+      width: 20px;
+      height: 20px;
+      color: #000;
+    }
+    svg {
+      &:last-child {
+        font-size: 26px;
+      }
+    }
+  }
+
+  main {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    background-color: lightgrey;
+    .objectNumber {
+      padding: 15px 10px;
+      font-size: 18px;
+      color: #fff;
+      background-color: #555;
+      font-weight: bold;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    h4 {
+      padding: 20px 0 20px 15px;
+      font-weight: normal;
+      font-size: 16px;background-color: 
+      #fff;
+    }
+    .types {
+      display: flex;
+      justify-content: space-evenly;
+      width: 100%;padding-top: 20px;
+      .type {
+        width: 40%;
+        display: flex;gap: 10px;
+        flex-direction: column;
+        align-items: center;justify-content: center;
+        .genericButtonContainer {
+          background-color: #fff;
+          height: 100px;
+          width: 100px;
+          border-radius: 50%;
+          svg {
+            font-size: 50px;
+          }
+        }
+        p {
+            text-align: center;text-wrap: none;
+        }
+      }
+    }
+  }
+}

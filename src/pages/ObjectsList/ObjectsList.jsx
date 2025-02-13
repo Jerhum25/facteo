@@ -32,7 +32,7 @@ function ObjectsList(props) {
       <Link to="/" className="backBtn">
         <FaArrowAltCircleLeft />
       </Link>
-      <Link to="/ObjectScan" className="scanBtn"><PiBarcode /></Link>
+      <Link /* to="/ObjectScan" */ className="scanBtn"><PiBarcode /></Link>
     </div>
   );
 }

@@ -1,0 +1,93 @@
+.infosSupContainer {
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  .infosSupHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: orange;
+    position: relative;
+    gap: 10px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    a {
+      position: absolute;
+      left: 10px;
+      font-size: 20px;
+      width: 20px;
+      height: 20px;
+      color: #000;
+    }
+    svg {
+      &:last-child {
+        font-size: 26px;
+      }
+    }
+  }
+  main {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    .objectNumber {
+      padding: 15px 10px;
+      font-size: 18px;
+      color: #fff;
+      background-color: #555;
+      font-weight: bold;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+    h4 {
+      padding: 20px 0 20px 15px;
+      font-weight: normal;
+      font-size: 16px;
+    }
+    .recipient {
+      background-color: lightgrey;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      h5,
+      p,
+      input {
+        width: 90%;
+        margin: 8px auto 0 auto;
+      }
+      h5 {
+        display: flex;
+        align-items: baseline;
+        gap: 8px;
+        padding: 8px 0 0 0;
+        font-size: 16px;
+        .line {
+          width: 90%;
+          height: 2px;
+          background-color: #000;
+        }
+      }
+      p {
+        font-weight: bold;
+      }
+      input {
+        background-color: #eee;
+        border: none;
+        padding: 8px 10px;
+        text-transform: uppercase;
+      }
+      .genericButtonContainer {
+        text-transform: none;
+        background-color: orange;
+        border: 2px solid #fff;
+        width: 90%;
+        margin: 8px auto 0 auto;
+
+        &::first-letter {
+          text-transform: capitalize;
+        }
+      }
+    }
+  }
+}

@@ -94,7 +94,7 @@
         }
       }
       .number {
-        flex: 1;
+        flex: 1;font-size: 20px;
         padding-left: 50px;
       }
     }
@@ -134,11 +134,12 @@
     font-size: 12px;
     font-weight: bold;
     height: 40px;
+    color: #fff;
     :first-child {
-      background-color: rgb(0, 174, 255);
+      background-color: rgb(0, 174, 255);color: #fff;
     }
     :last-child {
-      background-color: navy;
+      background-color: navy;color: #fff;
     }
   }
 }

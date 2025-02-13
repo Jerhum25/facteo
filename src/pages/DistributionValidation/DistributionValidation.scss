@@ -46,8 +46,10 @@
       padding: 10px;
       border-bottom: 1px solid grey;
       h4 {
-        text-transform: capitalize;
         color: grey;
+        &::first-letter{
+          text-transform: capitalize;
+        }
       }
     }
   }
