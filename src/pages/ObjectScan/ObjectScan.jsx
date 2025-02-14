@@ -1,7 +1,10 @@
 import React, { useEffect, useState } from "react";
 import "react-barcode-scanner/polyfill";
+import { LuPenLine } from "react-icons/lu";
+import { MdFlashOff } from "react-icons/md";
 import BarcodeScannerComponent from "react-qr-barcode-scanner";
 import { useNavigate } from "react-router-dom";
+import GenericButton from "../../components/GenericButton/GenericButton";
 import beepSound from "../../sounds/bip.mp3";
 import "./ObjectScan.scss";
 
@@ -19,8 +22,9 @@ function ObjectScan({ onScan }) {
   }, []);
   const navigate = useNavigate();
   return (
-    <div className="objectScan">
-      <h2>Scanner de Code-Barres</h2>
+    <div className="objectScanContainer">
+      <GenericButton icon={<MdFlashOff />} />
+      <GenericButton icon={<LuPenLine />} />
       <BarcodeScannerComponent
         onUpdate={(err, result) => {
           if (result) {
@@ -35,24 +39,9 @@ function ObjectScan({ onScan }) {
           }
         }}
       />
-      <p>Résultat : {data}</p>
+      <GenericButton text="remise groupée" />;{/* <p>Résultat : {data}</p> */}
     </div>
   );
 }
 
 export default ObjectScan;
-
-// import { BarcodeScanner } from 'react-barcode-scanner'
-// import "react-barcode-scanner/polyfill"
-
-// import React from 'react';
-
-// function ObjectScan(props) {
-//     return (
-//         <div>
-//             <BarcodeScanner />
-//         </div>
-//     );
-// }
-
-// export default ObjectScan;
