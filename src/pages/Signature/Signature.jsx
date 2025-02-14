@@ -23,7 +23,7 @@ function Signature(props) {
       <div className="signatureHeader">
         <p>
           Le livreur ne peut assister à l'ouverture du colis mais vous
-          pouvezexprimer des réserves sur son état ou le refuser
+          pouvez exprimer des réserves sur son état ou le refuser
         </p>
       </div>
       <main>
